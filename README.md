@@ -1,4 +1,4 @@
-<img src="./assets/cur_banner1.png">
+<img src="./assets/cur_banner2.png">
 
 ### Hi there 👋
 
