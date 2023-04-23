@@ -1,3 +1,5 @@
+<img src="./assets/cur_banner.png">
+
 ### Hi there 👋
 
 <!--
