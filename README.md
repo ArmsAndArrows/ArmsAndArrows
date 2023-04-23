@@ -1,5 +1,7 @@
 <img src="./assets/cur_banner2.png">
-
+<br>
+As someone who is just starting out in the field of software engineering, I have a deep passion for web programming and a strong drive to develop scalable, maintainable, and user-friendly web applications that provide a seamless user experience. To achieve this, I am constantly learning and experimenting with new technologies and frameworks, always seeking to improve my skills and find innovative solutions to the problems at hand.
+<hr height="5px">
 ### Hi there 👋
 
 <!--
