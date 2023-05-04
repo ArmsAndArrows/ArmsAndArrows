@@ -6,12 +6,12 @@ As someone who is just starting out in the field of software engineering, I have
 <img align="right" alt="GIF" src="./assets/gif1.gif" width="400px"/>
 <br>
 <ul>
-<li>🔭 I'm currently working on small projects that involve asynchronous programming and web APIs.</li>
-<li>🌱 I'm currently learning everything about front-end development, the main focus is on Java Script.</li>
-
-<li>⚡ Future facts: My next focus will be on TypeScript and React.</li>
-
-<li>📫 How to reach me: **maximaxim91@gmail.com**</li>
+  <li>🔭 I'm currently working on small projects that involve asynchronous programming and web APIs.</li>
+  <li>🌱 I'm currently learning everything about front-end development, the main focus is on Java Script.</li>
+  <li>⚡ Future facts: My next focus will be on TypeScript and React.</li>
+  <li>📖 I have experience with: Testing applications and web-apps, Python, SQL, MongoDB, Postman, Jira</li>
+  <li>🚀 I'm currently use: HTML5, CSS3, SCSS, Tailwind, Parcel, JavaScript, React.</li>
+  <li>📫 How to reach me: **maximaxim91@gmail.com**</li>
 </ul>
 
 
