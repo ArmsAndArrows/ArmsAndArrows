@@ -2,19 +2,12 @@
 <br>
 As someone who is just starting out in the field of software engineering, I have a deep passion for web programming and a strong drive to develop scalable, maintainable, and user-friendly web applications that provide a seamless user experience. To achieve this, I am constantly learning and experimenting with new technologies and frameworks, always seeking to improve my skills and find innovative solutions to the problems at hand.
 <hr height="5px">
-### Hi there 👋
+<br>
+<img align="right" alt="GIF" src=".assets/gif1.gif" width="400px"/>
+<br>
+🔭 I'm currently working on small projects that involve asynchronous programming and web APIs.
+🌱 I'm currently learning everything about front-end development, the main focus is on Java Script.
+📫 How to reach me: **maximaxim91@gmail.com**
+⚡ Future facts: My next focus will be on TypeScript and React.
 
-<!--
-**ArmsAndArrows/ArmsAndArrows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
