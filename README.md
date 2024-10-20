@@ -8,7 +8,7 @@ I have a deep passion for web programming and a strong drive to develop scalable
 <ul>
   <li>🔭 I'm currently working on small projects that involve asynchronous programming and web APIs.</li>
   <li>🌱 I'm currently learning everything about full-process development, even design.</li>
-  <li>⚡ Future facts: I d.</li>
+  <li>⚡ Future facts: I will practice more with TensorFlowJS and Three.js. </li>
   <li>📖 I have experience with: Testing applications and web-apps, Python, SQL, MongoDB, Postman, Jira</li>
   <li>🚀 I'm currently use: Linux, HTML5, CSS3, SCSS, Vite Parcel, JavaScript, Typescript, VueJS, React, NextJS.</li>
   <li>📫 How to reach me: <a href="mailto:maximaxim91@gmail.com">maximaxim91@gmail.com</a></li>
